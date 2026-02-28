@@ -1,5 +1,6 @@
 # automated-sales-analytics-reporting
 End-to-end automated sales data analysis and PDF reporting system built using Python.
+
 -->Overview
 
 This project is an end-to-end automated data analytics pipeline built using Python. It processes raw retail sales data, performs data cleaning, generates business insights, creates visualizations, and exports a professional PDF report.
